@@ -59,6 +59,11 @@ Některá ustanovení zákoníku práce jsou **výslovně vyloučena**: § 16 od
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2738/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1CB98262EBFE777C125871C0015FB0E?openDocument) — 29. 4. 2021, kat. A
+  > „Závěr o tom, zda zaměstnanec územního samosprávného celku zařazený do úřadu územního samosprávného celku se plněním svých pracovních úkolů podílí na správních činnostech, je výhradně výsledkem objektivního právního posouzení, zda zaměstnancem vykonávané činnosti naplňují znaky „správních činností“ ve smyslu jejich legální definice uvedené v ustanovení § 2 odst. 3 zákona č. 312/2002 Sb. (ve znění pozdějších předpisů), mezi které nepatří zařazení určitých činností pod správní činnosti územním samosprávným celkem v jeho vnitřních předpisech k takovému zařazení lze sice přihlížet při posuzování charakteru zaměstnancem vykonávaných činností, ale stane-li se následně tato otázka mezi zaměstnavatelem (územním samosprávným celkem) a zaměstnancem spornou, není jím soud vázán při posuzování charakteru zaměstnancem vykonávaných činností"
+
 #### Územní samosprávný celek (odst. 1)
 
 Odst. 1 zavádí **autonomní legislativní zkratku „územní samosprávný celek"** širší, než je její ústavněprávní obsah. Podle čl. 99 Ústavy je ČR členěna na obce (základní ÚSC) a kraje (vyšší ÚSC); hl. m. Praha je sice obcí, ale s postavením kraje (§ 1 odst. 2 zákona o HMP). Pro účely ZÚÚSC se však pojem ÚSC **rozšiřuje** i na město a statutární město (které jsou formálně obcemi, ale s vyšším statusem) a na **městské části hl. m. Prahy** (které samy o sobě ÚSC nejsou — jsou částmi obce HMP — ale mají vlastní úřady, vlastní zaměstnance a vlastní rozpočet, takže pro účely této úpravy se s nimi zachází jako s ÚSC).
@@ -637,6 +642,11 @@ V pracovní smlouvě / jmenování musí být **uveden důvod** pro dobu určito
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3278/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F3715FE11F0D293C1257A4E0067BDCB?openDocument) — 24. 11. 2011, kat. A
+  > „Písemnost uvedenou v ustanovení § 334 odst. 1 zák. práce zaměstnavatel nedoručil zaměstnanci do vlastních rukou, jestliže mu jen umožnil, aby se seznámil s obsahem písemnosti, a jestliže mu předal pouze reprodukci písemnosti s grafickým napodobením podpisu"
+
 #### Taxativní katalog důvodů odvolání (odst. 1)
 
 § 12 odst. 1 zavádí **uzavřený výčet** pěti důvodů, pro které lze vedoucího úředníka / vedoucího úřadu odvolat z funkce. Mimo tyto důvody odvolání **není možné** — což je významná odchylka od obecné úpravy v ZP, podle níž lze vedoucího zaměstnance odvolat z funkce v zásadě kdykoli a bez uvedení důvodu (§ 73 odst. 1 ZP).
@@ -715,6 +725,11 @@ Stejné odstupné (6 × průměrný měsíční výdělek) náleží i vedoucím
 > *(3) Pro účely uvedené v odstavci 2 se započítává pouze doba trvání pracovního poměru úředníka u územního samosprávného celku, který rozváže s úředníkem pracovní poměr způsobem stanoveným v odstavci 1.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2738/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1CB98262EBFE777C125871C0015FB0E?openDocument) — 29. 4. 2021, kat. A
+  > „Závěr o tom, zda zaměstnanec územního samosprávného celku zařazený do úřadu územního samosprávného celku se plněním svých pracovních úkolů podílí na správních činnostech, je výhradně výsledkem objektivního právního posouzení, zda zaměstnancem vykonávané činnosti naplňují znaky „správních činností“ ve smyslu jejich legální definice uvedené v ustanovení § 2 odst. 3 zákona č. 312/2002 Sb. (ve znění pozdějších předpisů), mezi které nepatří zařazení určitých činností pod správní činnosti územním samosprávným celkem v jeho vnitřních předpisech k takovému zařazení lze sice přihlížet při posuzování charakteru zaměstnancem vykonávaných činností, ale stane-li se následně tato otázka mezi zaměstnavatelem (územním samosprávným celkem) a zaměstnancem spornou, není jím soud vázán při posuzování charakteru zaměstnancem vykonávaných činností"
 
 #### „Loajalitní" benefit — princip § 13
 
