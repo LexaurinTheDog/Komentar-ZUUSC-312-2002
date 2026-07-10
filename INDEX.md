@@ -14,3 +14,7 @@
 
 ## Vazby
 [ZoO 128/2000](/home/vojtech/Komentar-ZoO-128-2000/), [ZoK 129/2000](/home/vojtech/Komentar-ZoK-129-2000/), [ZHMP 131/2000](/home/vojtech/Komentar-ZHMP-131-2000/), 234/2014 (státní služba paralela), [ZP 262/2006](/home/vojtech/Komentar-ZP-262-2006/).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
