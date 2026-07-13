@@ -135,3 +135,123 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | jmenuje; prováděcí právní předpis stanoví | [§ 8](https://e-sbirka.gov.cz/sb/2002/312#par_8); [§ 19](https://e-sbirka.gov.cz/sb/2002/312#par_19); [§ 19b](https://e-sbirka.gov.cz/sb/2002/312#par_19b); [§ 20](https://e-sbirka.gov.cz/sb/2002/312#par_20); [§ 21](https://e-sbirka.gov.cz/sb/2002/312#par_21) |
 | Oprávnění a povinnost | musí; je povinen; může podat; odpovídá za | [§ 5](https://e-sbirka.gov.cz/sb/2002/312#par_5); [§ 6](https://e-sbirka.gov.cz/sb/2002/312#par_6); [§ 12](https://e-sbirka.gov.cz/sb/2002/312#par_12); [§ 15](https://e-sbirka.gov.cz/sb/2002/312#par_15) |
 | Domněnky, fikce a účinkové konstrukce | považuje se za | [§ 33](https://e-sbirka.gov.cz/sb/2002/312#par_33); [§ 43](https://e-sbirka.gov.cz/sb/2002/312#par_43) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 312/2002 Sb., o úřednících ÚSC (ZUUSC) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jímž norma spojuje s jednáním svůj normativní účinek. Nauka rozlišuje **objektivní modality**, jež popisují normu z hlediska jejího deontického operátoru — **příkaz** (norma jednání ukládá), **zákaz** (norma jednání zapovídá) a **dovolení** (norma jednání umožňuje, aniž je vynucuje). Tyto tři základní deontické operátory jsou vzájemně převoditelné (příkaz konat je zákazem nekonat), avšak v textu předpisu se projevují odlišnými normativními výrazy a vyvolávají odlišné právní následky. Zvláštní postavení mají **zmocnění** (kompetenční normy), která nesměřují k regulaci chování soukromých osob, nýbrž zakládají či vymezují pravomoc a působnost orgánu veřejné moci; nejde tu o „smět v soukromoprávním smyslu", ale o svěření veřejné moci, jejíž výkon je současně povinností (kompetence je pravomocí i závazkem ji naplňovat).
+
+Vedle objektivních modalit pracuje teorie se **subjektivními modalitami**, které týž normativní vztah nahlížejí z pozice jeho účastníků. Ústředním pojmem je korelativita **oprávnění** a **povinnosti**: subjektivnímu právu jedné strany zpravidla odpovídá povinnost strany druhé (právu úředníka podat námitky odpovídá povinnost orgánu se jimi zabývat; povinnosti úředníka jednat nestranně odpovídá právo dotčených osob na nestranné rozhodování). V pracovněprávním základu ZUUSC — který subsidiárně užívá zákoník práce — je tato korelativita zřetelná: zaměstnavatel (ÚSC) a úředník jsou nositeli vzájemně provázaných práv a povinností.
+
+**Normativní výrazy** jsou jazykové signály modality. Příkaz nese výraz „musí", „je povinen", „je třeba"; zákaz „nesmí", „nelze", „jen … může"; dovolení „může", „je oprávněn", „lze"; zmocnění „vydá", „stanoví vyhláškou", „rozhoduje o". Interpretace však nesmí ustrnout na jazyku: tentýž výraz „může" bývá u orgánu veřejné moci nutno číst jako vázané uvážení, nikoli libovůli, a formulace „jen … může" vyjadřuje kogentní omezení (zákaz překročit vymezený okruh).
+
+Konečně nauka odlišuje **domněnky** a **fikce** jako zvláštní normativní techniky. **Domněnka** (praesumptio) stanoví, že se určitá skutečnost pokládá za danou, pokud není prokázán opak (**vyvratitelná**), popřípadě bez možnosti důkazu opaku (**nevyvratitelná**); domněnky přesouvají a rozvrhují **důkazní břemeno**. **Fikce** (fictio iuris) naproti tomu prohlašuje za existující i to, co je zjevně nepravdivé nebo prostě nenastalo — vytváří normativní realitu odchylnou od reality skutkové (typicky „hledí se na", „považuje se za", „jde o"). Fikce nepřipouští důkaz opaku, neboť sama je konečným pravidlem, nikoli pravidlem o dokazování.
+
+### Příkaz
+
+Příkazové normy ZUUSC ukládají adresátům — zpravidla zaměstnavateli (ÚSC), popřípadě úředníkovi — povinnost aktivního konání. V tomto zákoně mají příkazy silný **procesně-garanční** rozměr: chrání transparentnost a řádnost obsazování a výkonu úřednických míst. Reprezentativní je požadavek, aby uzavření pracovní smlouvy s úředníkem **předcházela veřejná výzva** k přihlášení zájemců; jde o kogentní podmínku vzniku pracovního poměru úředníka, jejímž smyslem je otevřenost a rovný přístup k veřejným funkcím.
+
+Příkazová modalita je současně měřítkem zákonnosti výkonu správních činností. Zajišťování správních činností je vázáno na osoby, které **prokázaly zvláštní odbornou způsobilost** (§ 21); nesplnění tohoto požadavku je vadou postupu orgánu. Judikatura zdůrazňuje, že oprávněné úřední osoby projednávající agendu „musejí mít" zvláštní odbornou způsobilost.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 6 odst. 1 | musí předcházet | „musí předcházet veřejná výzva k přihlášení zájemců" | Ukládá zaměstnavateli povinnost provést před uzavřením pracovní smlouvy veřejnou výzvu; zajišťuje transparentnost obsazování úřednických míst. |
+
+- *NSS* [19 A 2/2014 - 73](judikatura/NSS-19-A-2-2014-73.md) — rozsudek, 8. 9. 2015; příkaz mít zvláštní odbornou způsobilost (§ 21)
+  > „Oprávněné úřední osoby, které přestupky za obecní úřad projednávají, musejí mít zvláštní odbornou způsobilost dle zvláštního předpisu (zákon č. 312/2002 Sb., ve znění pozdějších předpisů)."
+
+### Zákaz
+
+Zákazové normy zapovídají určité jednání a jejich porušení je typicky stiženo neplatností nebo nezákonností. V ZUUSC mají dvojí podobu. První je **výslovné vyloučení** určitého institutu: s úředníkem „nelze uzavřít" konkurenční doložku podle § 310 zákoníku práce (§ 40); jde o ochranu svobody následného pracovního uplatnění úředníka, jemuž nelze smluvně omezit výkon výdělečné činnosti po skončení poměru.
+
+Druhou podobou je **kogentní omezení okruhu** vyjádřené konstrukcí „může … jen": do funkce vedoucího úřadu nebo vedoucího úředníka „může být jmenován jen uchazeč uvedený v seznamu" (§ 9 odst. 4). Ačkoli výraz „může" jazykově evokuje dovolení, ve spojení se slovem „jen" jde o zákaz jmenovat kohokoli mimo vymezený okruh — tedy o procesní pojistku výběrového řízení. Příbuznou logiku vázanosti demonstruje judikatura k odvolávání vedoucího úřadu, kde zákon nekontrolované odvolání vylučuje a umožňuje je jen za zákonem stanovených podmínek (souhlas ministra vnitra).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 9 odst. 4 | může být jmenován jen uchazeč uvedený v seznamu | „Do funkce vedoucího úřadu nebo vedoucího úředníka může být jmenován jen uchazeč uvedený v seznamu podle odstavce 2 písm. c)." | Kogentní procesní pravidlo; omezuje jmenování výhradně na okruh uchazečů vybraných výběrovou komisí, porušení stíhá neplatnost. |
+| § 40 | nelze uzavřít | „S úředníkem nelze uzavřít konkurenční doložku (§ 310 zákoníku práce)." | Vylučuje u úředníků ÚSC použití konkurenční doložky; chrání svobodu následného pracovního uplatnění. |
+
+- *NSS* [7 As 338/2021 - 21](judikatura/NSS-7-As-338-2021-21.md) — rozsudek, 3. 3. 2022; vázanost odvolání vedoucího úřadu (§ 12)
+  > „Výklad zastávaný stěžovatelem by tak v konečném důsledku šel i proti účelu a smyslu právní úpravy. Ta brání nekontrolovanému odvolání ředitele Magistrátu hlavního města Prahy primátorem hlavního města Prahy; opravňuje primátora hlavního města Prahy jmenovat a odvolávat ředitele Magistrátu hlavního města Prahy pouze se souhlasem ministra vnitra"
+
+### Dovolení
+
+Dovolovací normy umožňují jednání, aniž je vynucují; adresát „může", není však povinen. V ZUUSC se dovolení objevuje nejčastěji jako **oprávnění zaměstnavatele** vázané na podmínky a limity. Tak za krizových stavů ÚSC „může úředníkovi nařídit" pracovní pohotovost (§ 14), avšak jen za stanovených předpokladů a v ročním limitu; dovolení je zde ohraničeno, aby nepřerostlo v neúměrné zatížení úředníka.
+
+Zvláštní podtyp tvoří **podmíněné dovolení** adresované úředníkovi, který „může vykonávat jinou výdělečnou činnost jen s předchozím písemným souhlasem" ÚSC (§ 16 odst. 4). Konstrukce „může … jen s … souhlasem" spojuje dovolení s podmínkou a je nástrojem prevence střetu zájmů — výkon činnosti je dovolen teprve po splnění kvalifikované náležitosti (předchozí písemný souhlas). Zde se dovolení a povinnost prolínají: úředník smí, ale jen dostojí-li povinnosti si souhlas opatřit.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 14 | může úředníkovi nařídit | „územní samosprávný celek může úředníkovi nařídit pracovní pohotovost" | Za krizových stavů zakládá zaměstnavateli oprávnění nařídit pracovní pohotovost, jen za stanovených podmínek a v limitu 400 hodin ročně. |
+| § 16 odst. 4 | může vykonávat jen s předchozím písemným souhlasem | „Úředník může vykonávat jinou výdělečnou činnost jen s předchozím písemným souhlasem územního samosprávného celku, u něhož je zaměstnán." | Podmiňuje výkon jiné výdělečné činnosti souhlasem zaměstnavatele; nástroj prevence střetu zájmů. |
+
+### Oprávnění a povinnost
+
+Subjektivní modality — oprávnění a povinnost — tvoří v ZUUSC provázaný pár, jejž nelze vykládat izolovaně. Povinnostní jádro postavení úředníka je etické a služební: úředník je povinen „jednat a rozhodovat nestranně" bez ohledu na své přesvědčení a zdržet se všeho, co by mohlo ohrozit důvěru v nestrannost (§ 16 odst. 1 písm. f). Této povinnosti odpovídá právo dotčených osob na nestranné rozhodování; jde o materiální standard veřejné správy, s nímž souvisí i vázanost úředníka vnitřními (metodickými) pravidly a jejich výkladem.
+
+Povinnost dopadá též na zaměstnavatele: po odvolání vedoucího „je povinen podat" návrh na změnu jeho dalšího pracovního zařazení (§ 12 odst. 4), čímž je chráněno trvání pracovního poměru odvolaného vedoucího. Na straně oprávnění stojí obranné prostředky úředníka — úředník „má právo podat" námitky proti postupu zkušební komise (§ 26 odst. 1); jde o subjektivní právo na obranu proti negativnímu hodnocení. Korelativně je omezen okruh informací, jež mají být úředníkovi u zkoušky zpřístupněny, což judikatura vykládá restriktivně (jen výčet dle § 22 odst. 2).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 16 odst. 1 písm. f) | je povinen jednat a rozhodovat nestranně | „jednat a rozhodovat nestranně bez ohledu na své přesvědčení a zdržet se při výkonu práce všeho, co by mohlo ohrozit důvěru v nestrannost rozhodování" | Klade na úředníka požadavek nestrannosti — materiální jádro etického a služebního standardu. |
+| § 12 odst. 4 | je povinen podat návrh na změnu zařazení | „Územní samosprávný celek je povinen podat vedoucímu úředníku nebo vedoucímu úřadu návrh na změnu jeho dalšího pracovního zařazení" | Ukládá zaměstnavateli nabídnout odvolanému vedoucímu jinou vhodnou práci; chrání trvání pracovního poměru. |
+| § 26 odst. 1 | má právo podat námitky | „má právo podat do 15 dnů ode dne oznámení této skutečnosti námitky proti postupu zkušební komise" | Zakládá úředníkovi subjektivní právo na obranný prostředek proti negativnímu hodnocení zkoušky. |
+
+- *NSS* [2 As 77/2008 - 139](judikatura/NSS-2-As-77-2008-139.md) — rozsudek, 22. 4. 2009; závaznost vnitřních pravidel a výkon správní činnosti (§ 16)
+  > „Z principu předvídatelnosti rozhodování orgánů veřejné správy totiž plyne, že správní orgány musí rozhodovat ve všech skutkově a právních případech obdobným způsobem, takže pokud si tyto orgány samy stanoví vnitřní pravidla, musí je ve své činnosti dodržovat"
+- *NSS* [1 As 247/2023 - 25](judikatura/NSS-1-As-247-2023-25.md) — rozsudek, 21. 8. 2024; rozsah informací poskytovaných u zkoušky (§ 22)
+  > „§ 22 odst. 2 zákona č. 312/2002 Sb. obsahuje výčet informací, které mají být úředníkovi podstupujícímu zkoušku zpřístupněny, a proto – jde li o náplň zkoušky – nelze nad zákonem stanovený rozsah sdělit informace jiné. Nejvyšší správní soud souhlasí s městským soudem, že je zcela legitimní a v souladu se zájmem na zabezpečení řádného průběhu zkoušky, pokud uchazeč předem nezná konkrétní znění testu, ale musí prokázat komplexní přípravu z celé zkoušené materie"
+
+### Zmocnění
+
+Zmocňovací (kompetenční) normy nesměřují k regulaci chování soukromých adresátů, nýbrž svěřují orgánu veřejné moci pravomoc a působnost. V ZUUSC mají dvě typické podoby. Prvou je **normotvorné zmocnění** k vydání prováděcího předpisu: ministerstvo „vydá vyhlášky k provedení" taxativně vypočtených ustanovení (§ 42 odst. 1). Výraz „vydá" tu není pouhým dovolením, nýbrž kompetencí, jejíž naplnění je současně povinností — bez prováděcích vyhlášek by systém vzdělávání úředníků nemohl fungovat.
+
+Druhou podobou je **rozhodovací pravomoc**: ministerstvo „rozhoduje o udělení akreditace" vzdělávacích institucí a programů (§ 35 odst. 1 písm. i), čímž je centralizována kontrola kvality vzdělávání. Kompetenční normy je nutno vykládat úzce: pravomoc lze konat jen v mezích a způsobem, které zákon svěřuje. Judikatura proto dovodila, že spolupráce a vyžádání vyjádření podle § 35 odst. 2 nezakládají závaznost stanoviska pro rozhodnutí ve správním řízení — zmocnění nelze rozšiřovat nad svěřený rámec.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 42 odst. 1 | vydá vyhlášky k provedení | „Ministerstvo vydá vyhlášky k provedení § 19 odst. 3, § 19b odst. 6, § 20 odst. 5, § 21 odst. 8, § 27 odst. 1 a § 33 odst. 1." | Kompetenční norma zmocňující (a zavazující) ministerstvo k vydání prováděcích předpisů systému vzdělávání úředníků. |
+| § 35 odst. 1 písm. i) | rozhoduje o udělení akreditace | „rozhoduje o udělení akreditace vzdělávacích institucí a vzdělávacích programů" | Svěřuje ministerstvu rozhodovací pravomoc akreditovat vzdělávací instituce a programy; centralizuje kontrolu kvality vzdělávání. |
+
+- *NSS* [8 Aps 3/2011 - 256](judikatura/NSS-8-Aps-3-2011-256.md) — rozsudek, 28. 12. 2011; meze kompetence ministerstva a nezávaznost stanoviska (§ 34, § 35)
+  > „Ustanovení § 35 odst. 2 zákona č. 312/2002 Sb. sice umožňuje, aby si Ministerstvo vnitra vyžádalo vyjádření a podklad pro vydání rozhodnutí, nelze však konstatovat či předjímat jakoukoliv závaznost takového vyjádření či metodického stanoviska pro další rozhodnutí ve správním řízení"
+
+### Domněnky a fikce
+
+ZUUSC užívá právní fikce jako techniku ochrany úředníka a zjednodušení kvalifikačního režimu. Ochrannou funkci plní **fikce doby neurčité**: není-li v pracovní smlouvě nebo ve jmenování uveden důvod pro dobu určitou, popřípadě není-li tento důvod v souladu s § 10 odst. 1, „jde o pracovní poměr na dobu neurčitou" (§ 10 odst. 2). Formulace „jde o" prohlašuje za existující určitý právní stav bez ohledu na to, co strany sjednaly vadně; nejde o domněnku s možností důkazu opaku, nýbrž o fikci ve prospěch úředníka.
+
+Zjednodušující funkci má **fikce rovnocennosti** vzdělání: za rovnocennou zkoušce vstupního vzdělávání „se považuje" obecná část úřednické zkoušky podle zákona o státní službě (§ 33 odst. 2). Norma prohlašuje dvě odlišné zkoušky za rovnocenné, aby předešla duplicitnímu ověřování kvalifikace. Obě konstrukce ilustrují, že fikce vytvářejí normativní realitu, kterou orgán nesmí popřít poukazem na realitu skutkovou.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 10 odst. 2 | jde o pracovní poměr na dobu neurčitou | „Není-li v pracovní smlouvě nebo ve jmenování do funkce uveden důvod podle věty první nebo není-li tento důvod v souladu s odstavcem 1, jde o pracovní poměr na dobu neurčitou." | Fikce ve prospěch úředníka: chybí-li nebo je-li vadný důvod pro dobu určitou, hledí se na poměr jako na sjednaný na dobu neurčitou. |
+| § 33 odst. 2 | se považuje za rovnocennou | „Za rovnocennou zkoušce vstupního vzdělávání se považuje obecná část úřednické zkoušky podle zákona o státní službě." | Právní fikce rovnocennosti umožňující uznat úřednickou zkoušku ze státní služby a předcházející duplicitnímu ověřování kvalifikace. |
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality v ZUUSC nepůsobí izolovaně, nýbrž se v jednotlivých institutech skládají do provázaných řetězců.
+
+- **Vznik pracovního poměru úředníka.** Příkaz předchozí veřejné výzvy (§ 6 odst. 1) a zákaz jmenovat mimo vybraný okruh uchazečů (§ 9 odst. 4) dohromady vytvářejí kogentní procesní filtr obsazování míst; k němu přistupuje fikce doby neurčité (§ 10 odst. 2) jako pojistka pro případ vadného sjednání doby určité. Předpokladem celého institutu je legální definice „správních činností", jejíž naplnění je věcí objektivního posouzení, nikoli vnitřního zařazení u zaměstnavatele.
+- **Postavení a odchod vedoucího.** Vázané odvolání (zákaz nekontrolovaného odvolání, „jen se souhlasem") se pojí s povinností zaměstnavatele nabídnout odvolanému vedoucímu změnu pracovního zařazení (§ 12 odst. 4). Zákaz a povinnost zde společně chrání stabilitu pracovního poměru vysoce postaveného úředníka.
+- **Integrita výkonu funkce.** Povinnost nestrannosti (§ 16 odst. 1 písm. f) se skládá s podmíněným dovolením jiné výdělečné činnosti jen se souhlasem (§ 16 odst. 4) a se zákazem konkurenční doložky (§ 40): povinnost, dovolení i zákaz slouží témuž účelu — prevenci střetu zájmů a ochraně důvěry ve veřejnou správu.
+- **Vzdělávání a jeho kontrola.** Oprávnění úředníka podat námitky proti postupu zkušební komise (§ 26 odst. 1) a omezený rozsah zpřístupňovaných informací (§ 22) stojí proti zmocnění ministerstva rozhodovat o akreditaci (§ 35 odst. 1 písm. i) a vydávat prováděcí vyhlášky (§ 42 odst. 1), přičemž fikce rovnocennosti zkoušky (§ 33 odst. 2) systém propojuje s režimem státní služby.
+
+- *NS* [21 Cdo 2738/2019](judikatura/NS-21-Cdo-2738-2019.md) — 29. 4. 2021, kat. A (Skončení pracovního poměru, Odstupné); objektivní povaha kvalifikace „správní činnosti"
+  > „Závěr o tom, zda zaměstnanec územního samosprávného celku zařazený do úřadu územního samosprávného celku se plněním svých pracovních úkolů podílí na správních činnostech, je výhradně výsledkem objektivního právního posouzení, zda zaměstnancem vykonávané činnosti naplňují znaky „správních činností" ve smyslu jejich legální definice uvedené v ustanovení § 2 odst. 3 zákona č. 312/2002 Sb. (ve znění pozdějších předpisů), mezi které nepatří zařazení určitých činností pod správní činnosti územním samosprávným celkem v jeho vnitřních předpisech k takovému zařazení lze sice přihlížet při posuzování charakteru zaměstnancem vykonávaných činností, ale stane-li se následně tato otázka mezi zaměstnavatelem (územním samosprávným celkem) a zaměstnancem spornou, není jím soud vázán při posuzování charakteru zaměstnancem vykonávaných činností."
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+| --- | --- | --- |
+| Příkaz | musí, musí předcházet, je povinen prokázat | § 6 odst. 1 (veřejná výzva); § 21 (prokázání ZOZ) |
+| Zákaz | nelze uzavřít, může být jmenován jen … | § 40 (konkurenční doložka); § 9 odst. 4 (okruh uchazečů) |
+| Dovolení | může nařídit, může vykonávat jen s … souhlasem | § 14 (pracovní pohotovost); § 16 odst. 4 (jiná výdělečná činnost) |
+| Oprávnění a povinnost | má právo podat, je povinen podat, je povinen jednat nestranně | § 26 odst. 1 (námitky); § 12 odst. 4 (návrh na změnu zařazení); § 16 odst. 1 písm. f) (nestrannost) |
+| Zmocnění | vydá vyhlášky k provedení, rozhoduje o udělení akreditace | § 42 odst. 1 (prováděcí vyhlášky); § 35 odst. 1 písm. i) (akreditace) |
+| Domněnka / fikce | jde o …, se považuje za rovnocennou | § 10 odst. 2 (doba neurčitá); § 33 odst. 2 (rovnocennost vzdělání) |
